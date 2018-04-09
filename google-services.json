@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "928337915664",
+    "firebase_url": "https://ecse426.firebaseio.com",
+    "project_id": "ecse426",
+    "storage_bucket": "ecse426.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928337915664:android:5478b6d2a76e6973",
+        "android_client_info": {
+          "package_name": "com.example.kha.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928337915664-nl2hv24m0l4n86l0u1u2d2msc32rf4kt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLYDHx4l-6GkHxRGlftd1TtADXVMv9uPQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
